@@ -36,6 +36,9 @@
 #### Implement robust error handling to ensure reliability.
 ### 3.2 Implement Alert Generation
 #### Generated an Email System where if the Transaction is detected Anamolous, the person is alerted via Email, this is only done for the sole purpose of Testing
+![Image](https://github.com/user-attachments/assets/d74108b3-7a98-4174-99a1-e78efcb3c51b)
+
+![Image](https://github.com/user-attachments/assets/d455b4c8-e4df-4228-9164-41153e2132e3)
 
 ###  📌PART 4: TESTING & PERFORMANCE EVALUATION
 ### 4.1 Develop a Comprehensive Test Suite
