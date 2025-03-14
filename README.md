@@ -40,6 +40,9 @@
 
 ![Image](https://github.com/user-attachments/assets/d455b4c8-e4df-4228-9164-41153e2132e3)
 
+This is the alert system That I Made that if any transaction is detected fraud it will send an email to that person
+![Image](https://github.com/user-attachments/assets/aaadbbc9-869e-4261-993d-63acb99dc70b)
+
 ###  📌PART 4: TESTING & PERFORMANCE EVALUATION
 ### 4.1 Develop a Comprehensive Test Suite
 #### Unit and integration tests to simulate normal and fraudulent transactions.
