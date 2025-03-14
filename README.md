@@ -48,3 +48,4 @@ This is the alert system That I Made that if any transaction is detected fraud i
 #### Unit and integration tests to simulate normal and fraudulent transactions.
 ### 4.2 Conduct Comparative Analysis
 #### Compare detection performance of LLM-based approach vs. rule-based/statistical methods.
+![Image](https://github.com/user-attachments/assets/6df396dd-1e7d-4e48-b0cf-d2fa5971a661)
