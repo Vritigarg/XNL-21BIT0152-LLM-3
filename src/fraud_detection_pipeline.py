@@ -94,7 +94,7 @@ def detect_fraud(new_transaction, top_n=5):
 
 
 # Load **real dataset**
-real_df = pd.read_csv("realistic_transactions.csv")  # Update filename if needed
+real_df = pd.read_csv("datasets/realistic_transactions.csv")  # Update filename if needed
 
 # List of transactions to check
 transactions_to_check = real_df["Transaction_Description"].head(5).tolist()
