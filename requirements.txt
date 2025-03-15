@@ -1,0 +1,11 @@
+pandas
+faker
+sentence-transformers
+numpy
+faiss-cpu
+email-validator
+pytest
+streamlit
+
+#local Packages
+-e.
