@@ -7,5 +7,3 @@ email-validator
 pytest
 streamlit
 
-#local Packages
--e.
