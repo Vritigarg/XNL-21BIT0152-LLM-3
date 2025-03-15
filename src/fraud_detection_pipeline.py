@@ -8,7 +8,7 @@ np.random.seed(42)
 
 # Load FAISS index and dataset
 index = faiss.read_index("faiss_index.bin")
-df = pd.read_csv("indexed_transactions.csv")
+df = pd.read_csv("datasets/indexed_transactions.csv")
 
 # Set FAISS parameters for deterministic search
 index.nprobe = 10
